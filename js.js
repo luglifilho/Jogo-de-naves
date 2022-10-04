@@ -154,7 +154,7 @@ var podeAtirar=true;
                                 
                     window.clearInterval(tempoDisparo);
                     tempoDisparo=null;
-                    $("#disparo").remove(); 
+                    $("#disparo").remove();
                     podeAtirar=true;
                             
                  }
